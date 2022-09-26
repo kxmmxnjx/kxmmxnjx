@@ -1,4 +1,12 @@
-### Hi there 👋
+### [KXMMXNJX.DEV](kxmmxnjx.dev)
+<pre><code>#include <stdio.h>
+
+int main() {
+    printf("Hello, world!\n");
+
+    return 0;
+}
+</code></pre> 
 
 <!--
 **kxmmxnjx/kxmmxnjx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
