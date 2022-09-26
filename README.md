@@ -1,4 +1,4 @@
-### [KXMMXNJX.DEV](kxmmxnjx.dev)
+### [My BLOG](kxmmxnjx.dev)
 <pre><code>#include <stdio.h>
 
 int main() {
