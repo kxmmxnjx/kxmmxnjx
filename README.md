@@ -1,4 +1,5 @@
-### [KXMMXNJX](https://kxmmxnjx.dev)
+[![Blog Badge](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=dev.to&Color=white)](https://kxmmxnjx.dev/)
+[![Outlook Badge](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=MicrosoftOutlook&logoColor=white)](mailto:kxmmxnjx@outlook.com)
 <pre><code>#include <stdio.h>
 
 int main() {
