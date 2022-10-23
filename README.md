@@ -19,7 +19,7 @@ int main() {
 # Stats
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kxmmxnjx)](https://solved.ac/kxmmxnjx)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kxmmxnjx)](https://solved.ac/kxmmxnjx) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kxmmxnjx&show_icons=true&theme=dark)
 
