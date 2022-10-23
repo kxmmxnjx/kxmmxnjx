@@ -1,5 +1,3 @@
-[![Blog Badge](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=github&Color=white)](https://kxmmxnjx.dev/)
-[![Outlook Badge](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=MicrosoftOutlook&logoColor=white)](mailto:kxmmxnjx@outlook.com)
 <pre><code>#include <stdio.h>
 
 int main() {
@@ -9,7 +7,23 @@ int main() {
 }
 </code></pre> 
 
+# Info
+
+[![Blog Badge](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=github&Color=white)](https://kxmmxnjx.dev/)
+[![Outlook Badge](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=MicrosoftOutlook&logoColor=white)](mailto:kxmmxnjx@outlook.com)
+
+# Projects
+
+# Skills
+
+# Stats
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kxmmxnjx)](https://solved.ac/kxmmxnjx)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kxmmxnjx&show_icons=true&theme=dark)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkxmmxnjx&count_bg=%23000000&title_bg=%23000000&icon=dev-dot-to.svg&icon_color=%23FF0000&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 <!--
 **kxmmxnjx/kxmmxnjx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
