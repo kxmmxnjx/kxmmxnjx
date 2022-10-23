@@ -18,7 +18,7 @@ int main() {
 
 # Stats
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kxmmxnjx)](https://solved.ac/kxmmxnjx/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kxmmxnjx&show_icons=true&theme=dark) 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kxmmxnjx)](https://solved.ac/kxmmxnjx/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <img src="http://mazandi.herokuapp.com/api?handle=kxmmxnjx&theme=warm"/> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kxmmxnjx&show_icons=true&theme=dark)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkxmmxnjx&count_bg=%23000000&title_bg=%23000000&icon=dev-dot-to.svg&icon_color=%23FF0000&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
